@@ -7,7 +7,7 @@ El proyecto `get_next_line` es una implementación de una función en C que lee 
 1. [Introducción](#introducción)
 2. [Uso](#uso)
 3. [Compilación](#compilación)
-4. [Estructura de carpetas](#estructura-de-carpetas)
+4. [Calificación](#calificacion)
 
 
 ## Introducción
@@ -38,7 +38,7 @@ int main(void)
 ```
 Hay que asegurarse de manejar adecuadamente la memoria y de incluir el archivo de encabezado (get_next_line.h) en los archivos fuente.
 
-#Compilación
+#compilación
 Este proyecto lo he incluido luego en Libft y lo compilo con el Makefile de la misma modificado para incluir los archivos correspondientes.
 
 
@@ -46,3 +46,9 @@ Este proyecto lo he incluido luego en Libft y lo compilo con el Makefile de la m
 La estructura de carpetas del proyecto es la siguiente:
 Están incluidos los archivos del bonus que consta en desarrollar get_next_line() con una sola variable estática.
 El get_next_line es capaz de gestionar múltiples fd a la vez.
+
+#calificcación
+
+<img width="882" alt="Captura de pantalla 2024-01-22 a las 20 19 06" src="https://github.com/AgustinaHeredia/getnextline_42/assets/119814051/dd6846ad-15b8-43a6-876a-d7f350cde1ac">
+
+Puedes seguir mi progreso en 42 en https://profile.intra.42.fr/users/agheredi
