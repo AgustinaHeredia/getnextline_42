@@ -35,7 +35,7 @@ int main(void)
     close(fd);
     return 0;
 }
-
+```
 Hay que asegurarse de manejar adecuadamente la memoria y de incluir el archivo de encabezado (get_next_line.h) en los archivos fuente.
 
 #Compilación
